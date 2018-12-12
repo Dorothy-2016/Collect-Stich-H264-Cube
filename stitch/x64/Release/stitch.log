@@ -1,0 +1,61 @@
+﻿  main.cpp
+C:\Users\zhao\Documents\opencv\build\install\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zhao\Documents\opencv\build\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zhao\Documents\opencv\build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\zhao\Documents\opencv\build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zhao\documents\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+C:\Users\zhao\Documents\opencv\build\install\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zhao\documents\visual studio 2015\projects\stitchtop\stitch\Camera.h(182): warning C4244: “return”: 从“surround360::Camera::Real”转换到“float”，可能丢失数据
+c:\vr\ffmpeg-x64\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.cpp(176): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+main.cpp(187): warning C4244: “return”: 从“long double”转换到“float”，可能丢失数据
+main.cpp(251): warning C4244: “参数”: 从“long double”转换到“int”，可能丢失数据
+main.cpp(253): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
+main.cpp(346): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(346): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+main.cpp(350): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(350): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+main.cpp(354): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+main.cpp(354): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+main.cpp(442): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(443): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(518): warning C4244: “参数”: 从“long double”转换到“int”，可能丢失数据
+main.cpp(520): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
+main.cpp(572): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(592): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(592): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+main.cpp(595): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(595): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+main.cpp(599): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+main.cpp(599): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+main.cpp(646): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+main.cpp(638): warning C4101: “novelViewRuntime”: 未引用的局部变量
+main.cpp(638): warning C4101: “opticalFlowRuntime”: 未引用的局部变量
+main.cpp(746): warning C4244: “参数”: 从“long double”转换到“int”，可能丢失数据
+main.cpp(757): warning C4244: “参数”: 从“long double”转换到“const float”，可能丢失数据
+main.cpp(757): warning C4305: “参数”: 从“long double”到“const float”截断
+main.cpp(766): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+main.cpp(790): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+main.cpp(790): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+main.cpp(819): warning C4244: “=”: 从“surround360::Camera::Real”转换到“float”，可能丢失数据
+main.cpp(827): warning C4244: “=”: 从“long double”转换到“float”，可能丢失数据
+main.cpp(830): warning C4305: “*=”: 从“long double”到“float”截断
+main.cpp(831): warning C4305: “*=”: 从“long double”到“float”截断
+main.cpp(832): warning C4305: “*=”: 从“long double”到“float”截断
+main.cpp(858): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(902): warning C4244: “参数”: 从“long double”转换到“int”，可能丢失数据
+main.cpp(920): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+main.cpp(920): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+main.cpp(1019): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+main.cpp(971): warning C4101: “fin”: 未引用的局部变量
+  正在生成代码
+  1 of 5079 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  stitch.vcxproj -> C:\Users\zhao\Documents\Visual Studio 2015\Projects\stitchtop\x64\Release\stitch.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\zhao\Documents\Visual Studio 2015\Projects\stitchtop\x64\Release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+  已复制         2 个文件。
